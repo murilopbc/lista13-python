@@ -1,0 +1,2 @@
+Python é legal!
+Aprendendo manipulação de arquivos
